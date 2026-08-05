@@ -8,7 +8,7 @@ Call test()
 
 * "def"  only stores instructions. The code inside runs only when the function is called
 
---
+# ---x----x---
 
 2. print() vs return
 print()
@@ -19,7 +19,7 @@ return
 
 Sends a value back to the caller.
 
---
+# ---x----x---
 
 3. Scope
 
@@ -43,7 +43,7 @@ Output:
 
 Local x and global x are different variables.
 
---
+# ---x---x----
 
 4. global
 x = 5
@@ -63,7 +63,7 @@ global tells Python:
 
 Use the global variable instead of creating a local one.
 
---
+# ----x---x--
 
 5. Scope vs Mutability
 
@@ -86,7 +86,7 @@ Python decides:
 1. Scope first
 2. Mutability second
 
---
+# -----x----x----
 
 6. Assignment vs Copy
 Assignment
@@ -109,7 +109,7 @@ b.append(3)
 print(a)  # [1,2]
 print(b)  # [1,2,3]
 
---
+# --x---x----
 
 7. Parameters vs Arguments
 def greet(name):
@@ -120,7 +120,7 @@ name → Parameter
 "Yash" → Argument
 
 
---
+# ------x----x-----
 
 
 8. Mutable Default Argument Trap
@@ -151,7 +151,7 @@ def add(item, lst=None):
     lst.append(item)
     return lst
 
---
+# ----x-----x-----
 
 9. Introduction to OOP
 class Dog:
