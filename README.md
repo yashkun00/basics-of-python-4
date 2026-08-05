@@ -2,14 +2,11 @@
 # 2. Sequences for execution
 # 3. Scoop and Looping
 # 4.  Global
-
+## 5,6,7
 |  | v |  |
 |---|---|---|
-# 5
 |scope | vs | Mutability |
-# 6
 |Copy | vs | Assignment |
-# 7
 |Parameter | vs | Arguments |
 
 # 8
