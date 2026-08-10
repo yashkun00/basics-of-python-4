@@ -1,10 +1,9 @@
-# basics-of-python
 
 1. Python exectution order
 A. create the function test
 B. Create variable x
-Call test()
-3.Continue to next line
+    Call test()
+c.Continue to next line
 
 * "def"  only stores instructions. The code inside runs only when the function is called
 
