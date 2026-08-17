@@ -29,7 +29,7 @@ Which variable am I using?
 x = 5
 
 def test():
-    x = 10
+    x = 9
     print(x)
 
 test()
@@ -37,7 +37,7 @@ print(x)
 
 Output:
 
-10
+9
 5
 
 Local x and global x are different variables.
