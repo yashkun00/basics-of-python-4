@@ -3,7 +3,7 @@
 A. create the function test
 B. Create variable x
     Call test()
-c.Continue to next line
+c. Continue to next line
 
 * "def"  only stores instructions. The code inside runs only when the function is called
 
