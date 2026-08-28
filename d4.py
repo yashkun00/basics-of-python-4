@@ -56,7 +56,7 @@ print(x)
 
 Output:
 
-10
+9
 
 global tells Python:
 
