@@ -49,7 +49,7 @@ x = 5
 
 def test():
     global x
-    x = 10
+    x = 9
 
 test()
 print(x)
