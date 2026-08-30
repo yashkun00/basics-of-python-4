@@ -26,7 +26,7 @@ Scope answers:
 
 Which variable am I using?
 
-x = 5
+x = 10
 
 def test():
     x = 9
