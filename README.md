@@ -10,4 +10,4 @@
 |Parameter | vs | Arguments |
 
 # 8
-Mutable arguments trap
+Mutable arguments traps
