@@ -8,6 +8,6 @@
 |scope | vs | Mutability |
 |Copy | vs | Assignment |
 |Parameter | vs | Arguments |
-
-# 8
+---
+## 8
 Mutable arguments traps
